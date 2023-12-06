@@ -1,0 +1,6 @@
+name=pdbatinfo
+author=Paul Straw <paulstraw@paulstraw.com>
+description=Displays the current battery charging state, voltage, and estimated % remaining (state of charge) using Panic-provided APIs. Also includes information about Playdate's battery.
+bundleID=com.strawdynamics.pdbatinfo
+version=1.0.0
+buildNumber=1

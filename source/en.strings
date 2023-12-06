@@ -1,0 +1,8 @@
+"yes"="Yes"
+"no"="No"
+
+"statusItem.charging"="Chg?"
+"statusItem.usb"="USB"
+"statusItem.screws"="Screws"
+"statusItem.volts"="Volts"
+"statusItem.stateOfCharge"="Est %"
